@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![image title](https://rushter.com/counter.svg)
-
-![image title](https://profile-counter.glitch.me/{AchrafBella}/count.svg)
 
 <!--
 **AchrafBella/AchrafBella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
