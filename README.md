@@ -6,8 +6,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=AchrafBella)
-
 
 ### Worked with
 
