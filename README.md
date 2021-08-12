@@ -1,6 +1,6 @@
 # Hello, I'm Achraf junior data scientist and programmer.
 
-![](https://komarev.com/ghpvc/?username=supernova)
+![](https://komarev.com/ghpvc/?username=Supernova)
 
 ## Reach me on :  
 
