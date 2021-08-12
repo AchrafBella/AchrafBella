@@ -1,4 +1,4 @@
-# Hello, I'm Achraf junior data scientist and developper.
+# Hello, I'm Achraf junior data scientist and programmer.
 
 ## Reach me on :  
 
@@ -6,7 +6,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=AchrafBella)
 
 
 ### Worked with
