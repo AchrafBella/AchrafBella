@@ -2,13 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Supernova)
 
-## Reach me on :  
-
-![](https://hit.yhype.me/github/profile?user_id=52492864&color=brightgreen)
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-SaadTAZROUTE-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achraf-bella/](https://www.linkedin.com/in/achraf-bella/)
-
 ---
 
 ### Worked with & more
