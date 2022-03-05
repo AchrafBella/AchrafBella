@@ -20,4 +20,4 @@ Fond of Machine Learning & Deep learning, I have worked in plenty project relate
 ### Follow me on LinkedIn
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-SaadTAZROUTE-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achraf-bella/)](https://www.linkedin.com/in/achraf-bella/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Achraf BELLA-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achraf-bella/)](https://www.linkedin.com/in/achraf-bella/) 
