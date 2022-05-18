@@ -5,6 +5,7 @@ Fond of Machine Learning & Deep learning, I have worked in plenty project relate
 ![](https://komarev.com/ghpvc/?username=Supernova)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchrafBella)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Worked with & more
