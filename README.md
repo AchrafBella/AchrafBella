@@ -13,7 +13,7 @@ Fond of Machine Learning & Deep learning, I have worked in plenty project relate
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-<code><img height="40" src="https://search.brave.com/images?q=docker%20logo%20for%20github" title="Docker"></code>
+<code><img alt="postgresql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="Tensorflow"></code>
 </code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 
