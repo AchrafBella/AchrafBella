@@ -1,5 +1,5 @@
 # Hello, I'm Achraf Data Scientist and programmer.
-Fond of Machine Learning & Deep learning, I have worked in plenty project related to Data Science & Data engineering, I have gained a significant experience in programming thanks to my last internship at the big company General Electric that I combanied with my knoweldge in Data Science.
+Fond of Machine Learning & Deep learning, I have worked in plenty of projects related to Data Science & Data engineering, I have gained a significant experience in programming. 
 
 
 ![](https://komarev.com/ghpvc/?username=Supernova)
