@@ -1,4 +1,4 @@
-# Hello, I'm Achraf Data Scientist and programmer.
+# Hello, I'm Achraf Data Scientist.
 Fond of Machine Learning & Deep learning, I have worked in plenty of projects related to Data Science & Data engineering, I have gained a significant experience in programming. 
 
 
